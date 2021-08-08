@@ -1,0 +1,6 @@
+language: java
+jdk:
+  - openjdk11
+before_install:
+  - cd dscatalog-backend3-main
+  - chmod +x mvnw
